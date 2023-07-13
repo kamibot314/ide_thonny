@@ -1,4 +1,4 @@
-# ide_thonny
+# 카미봇파이 인공지능 프로그래밍 환경
 카미봇파이를 활용한 AI 프로그래밍을 위한 환경을 제공하기 위한 파일입니다. 
 Thonny에디터([사이트](https://github.com/thonny/thonny))를 사용합니다. 
 
