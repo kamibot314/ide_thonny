@@ -6,7 +6,11 @@ Thonny에디터([사이트](https://github.com/thonny/thonny))를 사용합니�
 1. tag에서 최신의 압축파일을 다운로드 받아서 압축을 해제합니다. ([다운로드](https://github.com/kamibot314/ide_thonny/tags))
 2. 압축 해제된 폴더에서 thonny.bat 파일을 더블클릭하면 프로그램이 실행됩니다.
 
-### 카미봇 라이브러리
+### 카미봇 관련 라이브러리
 1. [helloai](https://pypi.org/project/helloai/)
 2. [piKamipi](https://pypi.org/project/pyKamipi/)
 
+### 카미봇 카페
+1. 네이버 카페 [카미봇으로 배우는 인공지능 코딩](https://cafe.naver.com/kamibotai?iframe_url=/MyCafeIntro.nhn%3Fclubid=30069632)
+
+   
