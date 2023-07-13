@@ -4,6 +4,7 @@ Thonny에디터([사이트](https://github.com/thonny/thonny))를 사용합니�
 
 ### 사용법
 1. tag에서 최신의 압축파일을 다운로드 받아서 압축을 해제합니다. ([다운로드](https://github.com/kamibot314/ide_thonny/tags))
+   - ide_thonny_2.1.zip 파일만 다운로드 받아서 압축을 해제하면 됩니다.
 2. 압축 해제된 폴더에서 thonny.bat 파일을 더블클릭하면 프로그램이 실행됩니다.
 
 ### 카미봇 관련 라이브러리
