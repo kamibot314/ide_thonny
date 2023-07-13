@@ -10,7 +10,8 @@ Thonny에디터([사이트](https://github.com/thonny/thonny))를 사용합니�
 1. [helloai](https://pypi.org/project/helloai/)
 2. [piKamipi](https://pypi.org/project/pyKamipi/)
 
-### 카미봇 카페
+### 사용 방법
+사용방법은 네이버카페에서 확인할 수 있습니다.
 1. 네이버 카페 [카미봇으로 배우는 인공지능 코딩](https://cafe.naver.com/kamibotai?iframe_url=/MyCafeIntro.nhn%3Fclubid=30069632)
 
    
